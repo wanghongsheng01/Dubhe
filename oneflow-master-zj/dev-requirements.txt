@@ -1,0 +1,9 @@
+black==19.10b0 ; python_version >= "3.6"
+numpy
+protobuf
+wheel
+tqdm
+requests
+jinja2
+opencv-python==4.2.0.34; sys_platform != 'darwin'
+PyYAML
